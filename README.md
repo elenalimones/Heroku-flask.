@@ -1,4 +1,7 @@
 # Proyecto-flask-heroku
+
+  ## Requisitos previos:
+    - 
   ## Instalación de heroku:
     sudo snap install --classic heroku
 
@@ -7,7 +10,9 @@
         https://cli-assets.heroku.com/install-ubuntu.sh
  
  ## Comienzo de logueo con Heroku
-  heroku login
+    heroku login
+    
+  
   
   
   
