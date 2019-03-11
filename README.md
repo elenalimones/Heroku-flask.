@@ -12,8 +12,10 @@
         https://cli-assets.heroku.com/install-ubuntu.sh
 
 
-## ¿Cómo se ejecuta?
-
+## Para probarlo una vez puesto en funcionamiento:
+  - https://proyecto-heroke.herokuapp.com/
+  Este admite tres periódicos diferentes (elm, bbc y abc):
+  - https://proyecto-heroke.herokuapp.com/news/elm
   
   
   
